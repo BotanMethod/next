@@ -411,10 +411,10 @@ class WinRARClone:
 Version: {version}
 Author: {author}
 
-{app_name} - custom WinRAR client with support:
+{app_name} - custom RAR client with support:
 - ZIP - (reading/writing)
 - RAR - (reading only)
-- NARC (Next ARC) - (Custom format)
+- NARC (Next ARC) - (reading/writing)
         """
         
         info_label = ctk.CTkLabel(
